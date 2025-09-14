@@ -76,6 +76,6 @@ that's scan was in my laptop win 7 that can't scan 8000 port at the same time yo
 ![Screenshot_2025-09-13-18-27-26-033_com assets](https://github.com/user-attachments/assets/3a91da76-7e04-40df-97ff-e55287ca6816)
 
 
-<p>i scanned in termux in my Android mobile that can scan from 80 to 8080 or even 9000 at the same time<p>
+I scanned in termux in my Android mobile that can scan from 80 to 8080 or even 9000 at the same time<p>
 
-<p>it also work in cmd if your device support ASCII colors, xscan.py, xscanner.py<p>
+It also work in cmd if your device support ASCII colors, xscan.py, xscanner.py
