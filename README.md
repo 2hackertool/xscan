@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot_2025-09-14_09-33-09" src="https://github.com/user-attachments/assets/1ab76b6e-e093-4b6a-bea9-e5302fe5746c" /># xscan
+# xscan
 
 this tool is for scanning targets/websites ports with their names 💻
 
