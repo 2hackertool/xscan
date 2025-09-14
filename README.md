@@ -28,7 +28,7 @@ git clone https://github.com/2hackertool/xscan.git
 ```
 you can use xscanner.py and xscan.py or ruby script 
 
-<h1>Usage<h1>
+Usage:
 
 ```
 ruby xscan.rb -t <target> -s <start_port> -e <end_port>
@@ -54,8 +54,7 @@ Options:
 
 ![IMG_20250914_174916](https://github.com/user-attachments/assets/44c8c7cb-a0d2-4ee1-bc96-11749486544b)
 
-myUploading Screenshot_2025-09-14_09-33-09.png…]()
-
+<img width="1366" height="768" alt="Screenshot_2025-09-14_09-33-09" src="https://github.com/user-attachments/assets/1ab76b6e-e093-4b6a-bea9-e5302fe5746c" />
 <img width="1366" height="768" alt="Screenshot_2025-09-14_09-33-55" src="https://github.com/user-attachments/assets/302ff56b-e0f8-45c9-af83-940fca11dd65" />
 
 <img width="1366" height="768" alt="Screenshot_2025-09-14_09-42-10" src="https://github.com/user-attachments/assets/14d4addb-e94c-4d2e-a0a6-a2ec9fa3346a" />
@@ -66,7 +65,7 @@ that's scan was in my laptop win 7 that can't scan 8000 port at the same time yo
 
 ![IMG_20250914_175812](https://github.com/user-attachments/assets/687ee7d5-5089-4091-bda8-0f22a0028d65)
 
-![Screenshot_2025-09-13-18-20-42-746_com termux](https://github.com/user-attachments/assets/b5249ff1-5d47-4f27-935d-0e94428d5107)
+![Screenshot_2025-09-13-18-20-42-746_com terh1erhxx](https://github.com/user-attachments/assets/b5249ff1-5d47-4f27-935d-0e94428d5107)
 
 ![Screenshot_2025-09-13-18-27-26-033_com termux](https://github.com/user-attachments/assets/3a91da76-7e04-40df-97ff-e55287ca6816)
 
